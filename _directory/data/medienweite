@@ -1,0 +1,34 @@
+---
+# name (required)
+# may be your real name or your nick
+name: medienweite
+
+# geo location (required)
+# provide your favored level of detail by number of digits (like 50.107811 vs 50.11)
+# you may use services like openstreetmap.org to find out your geo location
+latitude: 52.277435
+longitude: 8.039451
+ 
+# bio
+# describe yourself, your involvement in the project and the community or whatever is relevant for you.
+# should be 300 chars at maximum. no markup or line breaks!
+bio: "Seit 2010 setzen wir auf Redaxo als Redaktionssystem für unsere Auftraggeber. Als spezialisierte Osnabrücker Werbeagentur erstellen wir stets individuelle Internetpräsenzen auf Basis von 
+
+Redaxo. Wir betreuen unsere Kunden bei Installation, Webdesign, Erstellung von Redaxo Vorlagen (Templates), Anpassungen sowie Programmierung von Modulen und bei der 
+
+Individualprogrammierung. Wir stehen Ihnen stets mit unserem vollen technischen Know-How zur Verfügung."
+
+# image or gravatar
+# provide image file from current folder (like 'johndoe.jpg') or gravatar url (generated via https://3v4l.org/OXG7H)
+# should be square and about 200-300 px size!
+image: logo_mw.gif
+
+# links
+# one or more links to your website, your github profile, twitter, facebook et al.
+# 4 links, tops!
+links:
+- https://www.medienweite.de
+- https://twitter.com/medienweite
+- https://www.pinterest.com/medienweite/
+- https://facebook.com/medienweite
+---
